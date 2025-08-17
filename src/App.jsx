@@ -61,7 +61,7 @@ function App() {
         </h1>          
           <nav>
             <ul>
-              <li><a href="#hero">Home</a></li>
+              <li><a href="#home">Home</a></li>
               <li><a href="#services">Services</a></li>
               <li><a href="#why-choose-us">Why Choose Us</a></li>
               <li><a href="#contact">Contact</a></li>
@@ -70,8 +70,8 @@ function App() {
         </div>
       </header>
       <main>
-        <section id="hero" className="hero">
-          <div className="hero-content">
+        <section id="home" className="home">
+          <div className="home-content">
             <h2>We make your spaces shine</h2>
             <p>
               FreshNest Cleaning provides professional cleaning services for homes and offices,
